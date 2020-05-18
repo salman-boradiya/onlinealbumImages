@@ -1,7 +1,7 @@
 {
     "OnlineAlbumImages":[
         {
-         "image":"http://i.imgur.com/VGmpnRR.jpg",
+            "image":"http://i.imgur.com/VGmpnRR.jpg",
             "small_image":"http://i.imgur.com/VGmpnRRs.jpg",
             "location_txt":"Yosemite National Park",
             "location_url":"",
@@ -279,14 +279,6 @@
             "location_url":"",
             "artistname_txt":"Anonymous",
             "artistname_url":"https://bit.ly/2CI4uqQ"
-        },
-        {
-            "https://i.imgur.com/nIyuoGp.jpg",
-            "small_https://i.imgur.com/nIyuoGps.jpg",
-            "location_txt":"Cinque Terre, Italy",
-            "location_url":"",
-            "artistname_txt":"Anonymous",
-            "artistname_url":""
         },
         {
             "image":"http://i.imgur.com/hzIoJAb.jpg",
